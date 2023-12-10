@@ -8,7 +8,7 @@ ranFor = pickle.load(open('stroke_RF_Model.sav','rb'))
 # judul/Title web
 st.title('Prediksi Penyakit Stroke')
 st.markdown("""
-### ini merupakan aplikasi web berbasis Machine Learning untuk prediksi penyakit Jantung
+### ini merupakan aplikasi web berbasis Machine Learning untuk prediksi penyakit stroke dengan random forest
 ### Dibuat oleh: kelompok 9 
 Anggota: 1. Daffa Ardiyansyah
          2. Pramudya Raka Utomo
